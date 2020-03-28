@@ -22,13 +22,13 @@ Golang has a really simple syntax which is very useful to understand and learn G
 #### 2. Go Tools
 There are some powerful tools comes with Golang that are very helpful for developers to write the code. Tools which are commonly used by devs are:
 
-    ##### i. gofmt: It automatically formats the source code.
+     i. gofmt: It automatically formats the source code.
 
-    ##### ii. golint: It is used to find out some styling issues in the code.
+     ii. golint: It is used to find out some styling issues in the code.
 
-    ##### iii. vet: It analyses the code and reports if there are any suspicious code. 
+     iii. vet: It analyses the code and reports if there are any suspicious code. 
 
-    ##### iv. gobuild: It helps you to build the executable files on your platform. 
+     iv. gobuild: It helps you to build the executable files on your platform. 
 
 #### 3. Fast Compilation
 The Golang compiler is designed to be very fast.
