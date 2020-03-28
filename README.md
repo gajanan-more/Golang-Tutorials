@@ -12,7 +12,7 @@ It has a simple syntax and also have a good back up of robust standard library.
 
 ### Advantage of Go
 
-There are several reasons why you should use Golang over other programming languages like python, nodejs, ruby, etc
+There are several reasons why you should use Golang over other programming languages like python, nodejs, ruby, etc.
 
 Following are the advantages of Golang:
 
@@ -34,7 +34,7 @@ There are some powerful tools comes with Golang that are very helpful for develo
 The Golang compiler is designed to be very fast.
 
 #### 4. Concurrent Applications
-We can use Goroutines and channels to write the multithreaded applications
+We can use Goroutines and channels to write the multithreaded applications.
 
 #### 5. Open Source
 This is main adavantage of Go as this is an open source project and anyone can contribute to this project.
