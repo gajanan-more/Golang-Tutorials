@@ -1,0 +1,15 @@
+Use var to DECLARE three variables. The variables should have package level scope.
+Use the following IDENTIFIRES for the variables and make sure the variables store the values of the following type.
+    a. identifire "x" type int
+    b. identifire "y" type string
+    c. identifire "z" type bool
+
+1. At the package level scope, assign the following values to the three variables
+    a. for x, assign 42
+    b. for y, assign "James Bond"
+    c. for z, assign true
+
+2. in func main,
+    a. use fmt.Sprintf to print all the values to one single string. ASSIGN the returned value of TYPE string using the short declaration 
+    operator to a VARIABLE with the IDENTIFIRE "s"
+    b. print the value stored in variable "s"
