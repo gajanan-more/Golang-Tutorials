@@ -1,0 +1,6 @@
+Use the for loop:
+    1. Print numbers from 33 to 122
+    2. Print the Hexadecimal for that number
+    3. Print the ASCII character for that number
+
+Hint: Use the Golang "fmt" package documentation for third sub-question.
