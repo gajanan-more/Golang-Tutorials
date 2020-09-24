@@ -42,7 +42,7 @@ This is main adavantage of Go as this is an open source project and anyone can c
 
 ### Installation
 
-Golang can be installed on any platforms like MacOS, Windows and Linux. You just need to download the binary for your respective platform from [https://golang.org/dl](https://golang.org/dl).
+Golang can be installed on any platforms like MacOS, Windows and Linux. To install the Golang on your system, please do visit [my blog post](https://gajananmore.wordpress.com/2020/09/24/the-go-programming-language-introduction-and-installation/)
 
 
 ### Verify your Installation
