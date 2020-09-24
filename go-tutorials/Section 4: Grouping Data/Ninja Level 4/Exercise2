@@ -1,0 +1,5 @@
+Using COMPOSITE LITERAL:
+    1. create an Slice which holds 10 VALUES of TYPE int
+    2. assign VALUES to each index position
+Range over the Slice and print out the values.
+Using format printing, print out the TYPE of Slice.

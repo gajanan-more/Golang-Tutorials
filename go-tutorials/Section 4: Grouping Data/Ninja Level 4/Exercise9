@@ -1,0 +1,11 @@
+Create a map with a key of TYPE string 
+which is a person’s “last_first” name, 
+and a value of TYPE []string which stores their favorite things. 
+Store three records in your map. 
+Print out all of the values, along with their index position in the slice.
+
+	1. `bond_james`, `Shaken, not stirred`, `Martinis`, `Women`
+    2. `moneypenny_miss`, `James Bond`, `Literature`, `Computer Science`
+    3. `no_dr`, `Being evil`, `Ice cream`, `Sunsets`
+
+Add a new record to this map. Now print out map using range
