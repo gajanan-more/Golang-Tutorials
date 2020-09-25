@@ -1,0 +1,3 @@
+Create a func which returns a func
+Assign the returned func to a variable
+Call the returned func
