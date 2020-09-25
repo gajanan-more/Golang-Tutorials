@@ -1,0 +1,18 @@
+Create a new type: vehicle. 
+    1. The underlying type is a struct. 
+    2. The fields: 
+        - doors int
+        - color string
+
+Create two new types: truck & sedan. 
+    1. The underlying type of each of these new types is a struct. 
+    2. Embed the “vehicle” type in both truck & sedan. 
+    3. Give truck the field “fourWheel” which will be set to bool. 
+    4. Give sedan the field “luxury” which will be set to bool. 
+
+Using the vehicle, truck, and sedan structs: 
+    1. using a composite literal, create a value of type truck and assign values to the fields
+    2. using a composite literal, create a value of type sedan and assign values to the fields. 
+    
+Print out each of these values. 
+Print out a single field from each of these values.

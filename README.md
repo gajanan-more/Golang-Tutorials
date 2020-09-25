@@ -18,3 +18,7 @@ Index:
 * [Section 2: Data Types](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%202:%20Data%20Types)
 
 * [Section 3: Control Flow](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%203:%20Control%20Flow)
+
+* [Section 4: Grouping Data](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%204:%20Grouping%20Data)
+
+* [Section 5: Structs](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%205:%20Structs)
