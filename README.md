@@ -13,16 +13,16 @@ Hope you will love it.
 
 Index:
 
-* [Section 1: Variables, Values and Type](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%201:%20Variables%2C%20Values%20and%20Type)
+* [Section 01: Variables, Values and Type](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%2001:%20Variables%2C%20Values%20and%20Type)
 
-* [Section 2: Data Types](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%202:%20Data%20Types)
+* [Section 02: Data Types](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%2002:%20Data%20Types)
 
-* [Section 3: Control Flow](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%203:%20Control%20Flow)
+* [Section 03: Control Flow](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%2003:%20Control%20Flow)
 
-* [Section 4: Grouping Data](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%204:%20Grouping%20Data)
+* [Section 04: Grouping Data](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%2004:%20Grouping%20Data)
 
-* [Section 5: Structs](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%205:%20Structs)
+* [Section 05: Structs](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%2005:%20Structs)
 
-* [Section 6: Functions](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%206:%20Functions)
+* [Section 06: Functions](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%2006:%20Functions)
 
-* [Section 7: Pointers](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%207:%20Pointers)
+* [Section 07: Pointers](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%2007:%20Pointers)
