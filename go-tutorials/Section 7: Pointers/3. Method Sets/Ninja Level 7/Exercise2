@@ -1,0 +1,14 @@
+Create a person struct
+Create a func called "chagneMe" with a *person as a parameter
+    - change the value stored at *person address
+    - Important:
+        - to dereference a struct, use (*value).field
+        - As an exception, if the type of x is a named-pointer type and (*x).f
+          is a valid selector expression denoting a field (but not a method),
+          x.f is shortland for (*x).f
+Create a value of type person
+    - print out the value
+In func main
+    - call chagneMe
+In func main
+    - print out the value

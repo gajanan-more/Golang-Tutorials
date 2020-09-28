@@ -22,3 +22,7 @@ Index:
 * [Section 4: Grouping Data](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%204:%20Grouping%20Data)
 
 * [Section 5: Structs](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%205:%20Structs)
+
+* [Section 6: Functions](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%206:%20Functions)
+
+* [Section 7: Pointers](https://github.com/gajanan-more/Golang-Tutorials/tree/master/go-tutorials/Section%207:%20Pointers)
